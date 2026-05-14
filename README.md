@@ -25,14 +25,10 @@ et formuler des recommandations marketing ciblées.
 6. Profilage des segments
 
 ## 📈 Résultats
-- [N] clusters identifiés
-- [Profil cluster 1 : ex. "Acheteurs fréquents haut panier"]
-- [Profil cluster 2 : ...]
-- [...]
-
-## 💡 Recommandations marketing
-- [Recommandation 1]
-- [Recommandation 2]
+- 3 clusters identifiés
+- Profil cluster 1 :Acheteurs fréquents haut panier
+- Profil cluster 2 : Achheteurs occasionnels panier moyen
+- Profil cluster 3 : Achheteurs explorateurs panier bas
 
 ## ▶️ Comment lancer
 \`\`\`bash
